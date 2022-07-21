@@ -1,8 +1,8 @@
 a=10;
 b=8;
 if (a<b) {
-    console.log("larger number")
+    console.log("larger number"+b)
     
 } else {
-    console.log("smaller number")
+    console.log("smaller number"+b)
 }

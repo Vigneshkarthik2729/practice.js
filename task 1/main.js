@@ -1,6 +1,6 @@
 let x=10;
 let y=5;
-let a=x+y;
+let a= x+y;
 let b=x-y;
 let c=x*y;
 let d=x/y;
